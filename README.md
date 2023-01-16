@@ -18,6 +18,6 @@
   <a href = "mailto:matheusmmartins360@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div> <h1>Portfólio<h1>
-<a href="https://portfolio-beta-matheus.vercel.app/">LINK<a>
+<div>
+<a href="https://portfolio-beta-matheus.vercel.app/"><h2>Portfólio<h2><a>
 </div>
